@@ -1,6 +1,6 @@
 # Multiclass Classification from Scratch: One-vs-All and All-Pairs
 
-DATA 2060 final project.
+DATA 2060 final project by team **Yes Free Dinner**.
 
 ## Overview
 
